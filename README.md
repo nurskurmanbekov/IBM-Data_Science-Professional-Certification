@@ -1,5 +1,26 @@
 # IBM-Data-Science-Professional-Certification
 <b>Kickstart your career in data science & ML. Build data science skills, learn Python & SQL, analyze & visualize data, build machine learning models. No degree or prior experience required.</b>
+| What will you learn |
+| --- |
+| Describe what is data science, the various activities of a data scientist’s job, and methodology to think and work like a data scientist  |
+|Develop hands-on skills using the tools, languages, and libraries used by professional data scientists  |
+|Import and clean data sets, analyze and visualize data, and build and evaluate machine learning models and pipelines using Python |
+|Apply various data science skills, techniques, and tools to complete a project using a real-world data set and publish a report for stakeholders|
+<details><summary>Acquired Skills</summary>
+<p>
+  
+|Acquired Skills|
+| --- |
+|Data Science|Deep Learning|
+|Machine Learning|Big Data|
+|Data Mining|Github|
+|Python Programming|Jupyter notebooks|
+|Rstudio||Methodology|
+|CRISP-DM||Data Analysis|
+  
+</p>
+</details>
+
 ## About Professional Certification
 Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills.
 
@@ -30,16 +51,3 @@ Create a dynamic Python dashboard to monitor, report, and improve US domestic fl
 Apply and compare machine learning classification algorithms to predict whether a loan case will be paid off or not.
 
 Train and compare machine learning models to predict if a space launch can reuse the first stage of a rocket.
-## Acquired Skills
-- Data Science
-- Deep Learning
-- Machine Learning
-- Big Data
-- Data Mining
-- Github
-- Python Programming
-- Jupyter notebooks
-- Rstudio
-- Methodology
-- CRISP-DM
-- Data Analysis
