@@ -1,0 +1,35 @@
+# Week 1
+
+1. Data Science is a process, not an event. It involves using data to gain insights and trends.
+2. Data Science is the art of uncovering insights through data and translating it into a story.
+3. It involves extracting data from unstructured and structured forms.
+4. It is the study of data and is considered as a field in its own right.
+5. It involves working with data to find answers to questions.
+6. Relevant today because of the availability of vast amounts of data, advanced algorithms and cheap data storage.
+7. The best time to be a data scientist due to the abundance of data, advanced tools and cost-effective storage solutions.
+8. Data Science involves significant data analysis.
+9. Data is available in massive quantities from various sources like log files, social media, sales data, and more.
+10. Data science helps organizations understand their environment, analyze existing issues and reveal hidden opportunities.
+11. Data scientists use data analysis to add to the organization's knowledge by investigating data and exploring its best use to provide value.
+12. The process of data science starts with clarifying the question the organization wants answered.
+13. Data scientists ask questions to understand the business need and determine the data required to solve the problem.
+14. Data scientists can analyze structured and unstructured data from multiple sources and models to explore the data and reveal patterns and outliers.
+15. The role of the data scientist then becomes that of a storyteller, communicating the results to stakeholders.
+16. Data visualization tools are used to help stakeholders understand the results and recommended actions.
+17. Data Science is changing the way organizations use data and understand the world.
+
+The speakers in the video have different backgrounds and came to data science from various fields, such as business, engineering, math, and statistics. They all have a common interest in solving complex problems using data analysis techniques. Some of them discovered their passion for data science through their work in consulting, retail manufacturing, transportation research, and others found it through their education in statistics and business analytics. However, the field of data science was not known to them when they were growing up and they didn't know they would be working in this field.
+
+In summary, to become a successful data scientist, it's important to have curiosity and the ability to take strong positions, be proficient in analytics platforms and software, and have the ability to tell compelling stories with the data insights. Also, it's crucial to determine your area of interest and competitive advantage, as that would guide you on the specific skills and tools to learn. Lastly, gain practical experience by applying your skills to real-world problems and sharing your insights with others.
+
+Data Science has been dubbed the "sexiest job of the 21st century" by Harvard Business Review due to the global demand for individuals with a combination of subject matter expertise, software programming and analytics experience, and excellent communication skills. A shortage of data science talent has led to a war for this type of talent and high salaries for data scientists. The McKinsey Global Institute has warned of a shortage of 140,000 to 190,000 people with deep analytical skills in the US by 2018. 92% of firms surveyed by SAP experienced a significant increase in data holdings, and 75% identified the need for new data science skills in their companies. The demand for data scientists is expected to outstrip supply by 250,000 in 2015. Companies are willing to pay top dollars for data science talent, with the average base salary being $100,000 for a software engineer and $112,000 for data scientists.
+
+So, in summary, you helped the Toronto Transit Commission (TTC) analyze half a million complaints they received from the public. Through analyzing the tabular data and unstructured data (emails and faxes), you couldn't find a pattern for the high volume of complaints. However, after having a personal experience of getting wet on a rainy day, you realized the relationship between bad weather and the volume of complaints. You went to Environment Canada's website and obtained data on weather conditions, and found out that the 10 most excessive days for complaints were the days with bad weather. You then reported your findings to the TTC executives, telling them that there was a relationship between weather and complaints but that there was nothing they could do about it.
+
+In summary, data science provides innovative solutions to old problems by using data analysis to identify patterns and make better decisions. The process involves identifying the problem, gathering the necessary data, selecting appropriate tools, and developing a data strategy. Three examples of data science being used to solve problems in transportation and the environment are discussed. The data science process is ongoing, and organizations must continually refine their practices to achieve the best results.
+
+Regression is a statistical method that helps establish a relationship between independent variables (such as distance and time) and a dependent variable (such as fare in a cab ride). The goal is to determine the constant or base fare and the relationship between independent and dependent variables, which can then be used to predict the dependent variable based on given independent variables. Essentially, regression allows us to understand how changes in one variable (such as distance or time) affects another variable (fare) based on existing data.
+
+Cloud computing provides numerous benefits to data scientists, such as the ability to store and access large amounts of data, the ability to perform high-performance computing using advanced algorithms and machines, and the ability to collaborate with multiple teams in different locations. Cloud platforms, such as IBM Cloud, Amazon Web Services, and Google Cloud, offer access to open source technologies, up-to-date tools and libraries, and pre-built environments for practicing and developing solutions. Cloud computing enhances productivity for data scientists by providing instant access to resources and enabling collaboration from anywhere and at any time.
+
+A data scientist is someone who finds solutions to problems through analyzing data, big or small, and communicates the findings through storytelling. Data science is what data scientists do. The definition of data science and a data scientist varies and can be narrowly construed to only include machine learning or meeting certain thresholds like processing large datasets quickly and distrusting statistical models. However, a more inclusive definition considers anyone who has a curious mind, fluency in analytics, and the ability to communicate their findings as a data scientist, regardless of the size of data or specific tools used.
