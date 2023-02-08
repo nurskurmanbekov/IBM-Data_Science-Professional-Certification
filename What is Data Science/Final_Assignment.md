@@ -4,7 +4,7 @@ A data scientist is a professional who is skilled in working with data, using st
 
 <b>As discussed in the videos and the reading material, data science can be applied to problems across different industries. Give a brief explanation describing what industry  you are passionate about and would like to pursue a data science career in? (2 marks)</b>
 
-I am interested in the healthcare, finance, and transportation industries.
+I am interested in the healthcare and transportation industries.
 
 <b>Based on the videos and the reading material, what are the ten main components of a report that would be delivered at the end of a data science project? (5 marks)</b>
 
