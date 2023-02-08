@@ -19,5 +19,3 @@ When hiring for a data science team, companies should look for a balance of tech
 
 When writing a report in data science, it's important to first determine the length and structure of the report. If the report is brief, it should provide a summary of key findings and be more to the point. If it is a longer report, it should be a comprehensive document that provides a critical review of the subject matter, including research methodology, data sources, intermediate findings, and main results. Regardless of the length, the report should follow a prescribed format, including a cover page, table of contents, executive summary, detailed contents, acknowledgments, references, and appendices if needed. It's also important to note that reports from leading consultants like Deloitte and McKinsey can vary in length and may include extensive data analysis, interviews with industry experts, and new data collection to answer the research questions.
 
-
-
