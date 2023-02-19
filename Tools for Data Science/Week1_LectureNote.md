@@ -42,3 +42,5 @@ Focusing on a specific relational database is recommended when learning SQL, and
 
 -    Scikit-learn
 -    Keras
+-    Tenserflow
+-    Pytorch
