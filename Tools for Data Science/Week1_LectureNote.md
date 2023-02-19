@@ -44,3 +44,15 @@ Focusing on a specific relational database is recommended when learning SQL, and
 -    Keras
 -    Tenserflow
 -    Pytorch
+
+<h1>Topic: APIs and REST APIs</h1>
+Notes:
+
+-    APIs allow two software components to communicate with each other
+-    APIs only refer to the interface, the library is the whole thing
+-    Pandas and TensorFlow are examples of libraries with separate APIs for different languages
+-    REST APIs enable communication through the internet using HTTP methods
+-    Common API-related terms: client, resource, endpoint, request, response, HTTP message, JSON file
+-    Watson Speech to Text and Watson Language-Translator APIs are examples of REST APIs
+-    Speech to Text API converts speech to text, while Language-Translator API translates text from one language to another
+    
