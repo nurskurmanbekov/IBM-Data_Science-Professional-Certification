@@ -24,3 +24,17 @@
 -    <b>stringer</b> String Manipulation
 -    <b>ggplot</b> Data Vizualization
 -    <b>caret</b> Machine Learning 
+
+<b>Basic Git Commands</b>
+
+-    log
+-    init
+-    add 
+-    status 
+-    commit 
+-    reset 
+-    branch
+-    checkout
+-    merge
+
+<b>  </b>
