@@ -1,5 +1,5 @@
-# The easiest way to get ggplot2 is to install the whole tidyverse:
-install.packages("tidyverse")
-
-# Alternatively, install just ggplot2:
-install.packages("ggplot2")
+library(datasets)
+# Load Data
+data(mtcars)
+# View first 5 rows
+head(mtcars, 5)
