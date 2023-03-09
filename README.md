@@ -21,7 +21,7 @@
 </p>
 </details>
 
-[![Stargazers repo roster for @nurskurmanbekov/IBM-Data_Science-Professional-Certification](https://reporoster.com/stars/nurskurmanbekov/IBM-Data_Science-Professional-Certification)](https://github.com/nurskurmanbekov/IBM-Data_Science-Professional-Certification/stargazers)
+[![Stargazers repo roster for @nurskurmanbekov/IBM-Data_Science-Professional-Certification](https://reporoster.com/stars/dark/nurskurmanbekov/IBM-Data_Science-Professional-Certification)](https://github.com/nurskurmanbekov/IBM-Data_Science-Professional-Certification/stargazers)
 
 
 ## About Professional Certification
